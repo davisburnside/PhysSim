@@ -1,2 +1,5 @@
 # PhysSim
-Includes Parts 1 and 2
+Full tutorials:
+
+https://www.davisburnside.com/Tutorials/PhysSimPt1
+https://www.davisburnside.com/Tutorials/PhysSimPt2
